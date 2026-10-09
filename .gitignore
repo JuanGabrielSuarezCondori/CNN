@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+cnn_mnist_weights.keras
+.streamlit/
